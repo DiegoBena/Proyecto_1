@@ -1,0 +1,133 @@
+html {
+    box-sizing: border-box;
+    font-size: 65%;
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.1rem;
+    line-height: 1.5;
+    background-color: blanchedalmond;
+    
+}
+
+h1 {
+    font-size: 6.8rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3rem;
+    padding: 0 5rem 0 5rem;
+    text-decoration-line: underline;
+}
+
+p {
+    font-size: 2.5rem;
+    padding: 0 3rem 0 3rem;
+    text-align: justify;
+}
+
+h3 {
+   font-size: 3rem;
+   text-decoration-line: underline;
+   padding: 0 3rem 0 3rem;
+   
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 2.75rem;
+    padding: 0 5rem 0 5rem;
+}
+
+h5 {
+    font-weight: bold;
+    font-size: 2.75rem;
+    padding: 0 5rem 0 5rem;
+}
+
+h6 {
+    font-weight: bold;
+    font-size: 2.75rem;
+    padding: 0 5rem 0 5rem;
+}
+
+h7 {
+    font-weight: bold;
+    font-size: 2.75rem;
+    padding: 0 5rem 0 5rem;
+}
+
+
+.barra {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 100rem;
+    display: block;
+    margin: auto;
+}
+
+.textimage {
+    text-align: center;
+    font-style: italic;
+    font-size-adjust: 1rem;
+}
+
+.navegation {
+    font-size: 2rem;
+    margin-right: 1.4rem;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.image {
+    max-width: 50rem;
+    display: block;
+    margin: 0 50rem 0 50rem;
+}
+
+.imagen {
+    display: block;
+    padding: left;
+    float: left;
+}
+
+.equipo {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.logos {
+    display: block;
+    float: right;
+    padding-right: 25rem;
+    max-width: 50rem;
+}
+
+.log2 {
+    float: right;
+}
+
+.parrafo {
+    text-align: left;
+    
+
+}
+
+.log3{
+    float:left;
+    max-width: 30rem;
+}
+
+
+.hz{
+ float: center;
+}
